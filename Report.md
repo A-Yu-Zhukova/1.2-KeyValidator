@@ -6,10 +6,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Дефект 1](https://github.com/A-Yu-Zhukova/1.2-KeyValidator/issues/1)
-* [Дефект 2](https://github.com/A-Yu-Zhukova/1.2-KeyValidator/issues/2)
-* [Дефект 3](https://github.com/A-Yu-Zhukova/1.2-KeyValidator/issues/3)
-* [Дефект 4](https://github.com/A-Yu-Zhukova/1.2-KeyValidator/issues/4)
+* [Валидные ключи не проходят проверку](https://github.com/A-Yu-Zhukova/1.2-KeyValidator/issues/1)
+* [Невалидный ключ отображается валидным](https://github.com/A-Yu-Zhukova/1.2-KeyValidator/issues/4)
 
 ## Описание процесса тестирования
 
